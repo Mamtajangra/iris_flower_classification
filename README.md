@@ -20,7 +20,7 @@ The **Iris flower dataset** is a classic dataset in pattern recognition and stat
 ## Visual Reference: Iris Flower Species
 
 | Setosa | Versicolor | Virginica |
-|----<img src="images/setosa.jpg" width="200"/>----|--- <img src="images/versicolor.jpg" width="200"/>--------|---<img src="images/virginica.jpg" width="200"/> -------|
+|---<img src="images/iris_setosha.jpg" width="200"/>----|--- <img src="images/iris_versicolor.jpg" width="200"/>--------|---<img src="images/iris_virginica.jpg" width="200"/> -------|
 
 
 ---
