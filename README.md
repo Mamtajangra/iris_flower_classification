@@ -15,12 +15,13 @@ The **Iris flower dataset** is a classic dataset in pattern recognition and stat
 
 **Goal:** Predict the species of an iris flower based on these four measurements.
 
----
+
 
 ## Visual Reference: Iris Flower Species
 
 | Setosa | Versicolor | Virginica |
-|---<img src="images/iris_setosha.jpg" width="200"/>----|--- <img src="images/iris_versicolor.jpg" width="200"/>--------|---<img src="images/iris_virginica.jpg" width="200"/> -------|
+|--------|------------|-----------|
+| <img src="images/iris_setosha.jpg" width="200"/> | <img src="images/Iris_versicolor_3.jpg" width="200"/> | <img src="images/Iris_virginica.jpg" width="200"/> |
 
 
 ---
