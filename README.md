@@ -15,7 +15,20 @@ The **Iris flower dataset** is a classic dataset in pattern recognition and stat
 
 **Goal:** Predict the species of an iris flower based on these four measurements.
 
+---
 
+## Iris Flower Anatomy
+
+To understand the dataset features, see the diagram below showing the **petal** and **sepal** parts of an iris flower:
+
+<p align="center">
+  <img src="images/iris.png" alt="Iris Flower Parts" width="350"/>
+</p>
+
+- **Sepal:** The outer parts of the flower (often green) that protect the developing bud.
+- **Petal:** The colorful parts of the flower that attract pollinators.
+
+---
 
 ## Visual Reference: Iris Flower Species
 
@@ -23,13 +36,12 @@ The **Iris flower dataset** is a classic dataset in pattern recognition and stat
 |--------|------------|-----------|
 | <img src="images/iris_setosha.jpg" width="200"/> | <img src="images/Iris_versicolor_3.jpg" width="200"/> | <img src="images/Iris_virginica.jpg" width="200"/> |
 
-
 ---
 
 ## Detailed Explanation of Species
 
 ### 1. Iris Setosa
-- **Description:** Iris Setosa is easily identified by its small size and bright blue or violet petals.
+- **Description:** Easily identified by its small size and bright blue or violet petals.
 - **Features:** Short petals and sepals, broad leaves.
 - **Habitat:** Native to Europe and Asia, often found in meadows and wetlands.
 
@@ -97,4 +109,11 @@ print("Accuracy:", accuracy)
 
 Install dependencies with:
 ```sh
-pip install pandas numpy matplotlib seaborn scikit
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+---
+
+## References
+
+- [UCI Machine Learning Repository: Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
